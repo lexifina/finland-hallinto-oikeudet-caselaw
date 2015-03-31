@@ -1,0 +1,31 @@
+---
+identifier: "Pohjois-Suomen HAO 31.03.2015 15/0166/3"
+court: "Hallinto-oikeudet"
+kind: "2015"
+docket: "10754/14/8108"
+decided: "2015-03-31"
+volume: "15/0166/3"
+keywords: "Ennakkoratkaisu , "
+source_url: "https://www.finlex.fi/fi/oikeuskaytanto/hallinto-oikeudet/2015/pohjois-suomi/166"
+source: "Finlex (www.finlex.fi), Ministry of Justice of Finland"
+licence: "CC BY 4.0"
+source_retrieved: "2026-11-07"
+---
+
+# Pohjois-Suomen HAO 31.03.2015 15/0166/3
+
+## Suomeksi
+
+Ennakkoratkaisun hakija, joka on luonnollinen henkilö, on hakenut ennakkoratkaisua muun ohella seuraaviin kysymyksiin: 1) Mikäli A Oy (myöhemmin Yhtiö) hankkii vapaalla omalla pääomalla kaikki hakijan omistamat A Oy:n osakkeet hankintahinnalla, joka perustuu yhtiöjärjestyksen määräyksiin ja osakassopimukseen, mikä katsotaan kyseisten osakkeiden luovutushinnaksi luovutusvoiton ja tappion laskemiseksi luovutusvoittoverotuksessa? 2) Verotetaanko luovutushinta kaikilta osin tuloverolain 32 §:ssä tarkoitettuna pääomatulona? 3) Voiko hankintaan tulla sovellettavaksi verotusmenettelystä annetun lain 28 §:n ja 29 §:n säännökset? Ennakkoratkaisuhakemuksessa on tuotu esiin muun muassa seuraavat seikat:
+Yhtiö on erikoislääkäriyhtiö, joka tarjoaa terveyden- ja sairaanhoidon palveluita yksityisillä lääkäriasemilla sekä myös julkisille sairaaloille ja terveyskeskuksille.
+Yhtiöjärjestyksen mukaan yhtiön osakkeet jakautuvat eri osakelajeihin, joita ovat K1-K5 ja V1-V150. Kaikilla osakkeilla on samanlainen äänioikeus yhtiökokouksessa ja yhtäläinen oikeus jaettaessa yhtiön varoja, mutta erilainen oikeus kertyneisiin nettovaroihin. Osakelajit poikkeavat toisistaan myös siten, että V-lajien osakkeet ovat yhtiöjärjestyksen 14 §:ssä tarkoitettuja lunastusehtoisia osakkeita.
+Osakkailla on keskinäinen osakassopimus. Osakkuuden edellytyksenä on työskentely Yhtiössä. Osakkaille maksetaan osakassopimuksen mukaan sovittua palkkaa ja muita työsuhde-etuja. Osakassopimuksessa määrätään, että Yhtiön laskentatoimi tuottaa yhtenäisin perustein lasketun toimintatuloksen jokaiselle osakkaalle. Kukin osakas sitoutuu kasvattamaan oman osakesarjansa toimintatulosta ja kirjanpidollista vasta-arvoa hallituksen määräämällä summalla vuosittain. Kasvutavoitteen voi asettaa myös yhtiökokous. Osakekohtainen tulostavoite vuonna 2013 on 800 euroa osakkeelta. Kun osakas lopettaa työnteon Yhtiössä, on tämän luovuttava osakkeista suunnitellun ajan puitteissa ja suunnitelman mukaisesti.
+Yhtiön osakkaalla on niin sanottu tulospiste, jonka tuotoksi hänen Yhtiön hyväksi aikaansaamansa liikevaihto ja muut tuotot kirjataan. Tulospisteen kuluiksi kirjataan osakkaan palkka henkilösivukuluineen, osakkaan liikevaihtoon kohdistuvat vuokra-, osto- ja muut vastaavat kulut. Lisäksi tulospisteen kuluksi kohdistetaan osakkaan käytössä mahdollisesti olevien koneiden ja laitteiden laskennallinen kulu, osuus yrityksen hallintomenoista sekä osakkaan toimintatulokseen perustuva yhteisövero. Yhtiön maksama osinko kirjataan osakkaan tulospisteen oman pääoman vähennykseksi siltä osin kuin osinko kuuluu ja on maksettu kyseiselle osakkaalle. Jos osakkaan käytössä on yrityksen omistamaa omaisuutta, omaisuuden mahdollinen arvonalennus ja arvonnousu kirjataan osakkaan tulospisteelle. Osakkaan tulospisteelle lasketaan kuukausittain ja vahvistetaan vuosittain jakamaton toimintatulos.
+Verohallinto katsoi ennakkoratkaisussaan, että jos Yhtiö hankkii kaikki hakijan omistamat Yhtiön osakkeet hakemuksessa esitetyllä hinnalla hänen lopettaessaan työskentelyn Yhtiössä, luovutukseen ei sovelleta verotusmenettelystä annetun lain 29 §:n peitellyn osingon säännöksiä. Luovutukseen ei myöskään katsottu soveltuvan verotusmenettelystä annetun lain 28 §:n säännökset veron kiertämisestä. Luovutukseen tulevat sovellettavaksi tuloverolain luovutusvoittoa koskevat säännökset. Siten osakkeiden luovutusvoitto verotetaan pääomatulona.
+Veronsaajien oikeudenvalvontayksikkö vaati valituksessaan hallinto-oikeudelle muun ohella keskeisen ennakkoratkaisun kohdan muuttamista seuraavan sisältöiseksi: Jos hakija luovuttaa omistamansa osakkeet Yhtiölle ennakkoratkaisuhakemuksessa esitetyllä tavalla, luovutukseen ei hakijan verotuksessa sovelleta tuloverolain luovutusvoiton verotusta koskevaa sääntelyä siltä osin kuin kauppahinta muodostuu muusta kuin osakkaan varsinaisesta pääomasijoituksesta Yhtiöön tai muun kuin verovelvollisen tai hänen lähipiiriinsä kuuluvan henkilön työskentelyyn perustuvasta tulosta. Ennakkoratkaisu on annettava ensi sijaisesti tuloverolain 33 b §:n 3 momentin tai verotusmenettelystä annetun lain 29 §:n 2 momentin normaalitulkinnan perusteella. Toissijaisesti viimeksi mainitun lainkohdan lisäksi on sovellettava myös veron kiertämistä koskevaa verotusmenettelystä annetun lain 28 §:n säännöstä.
+Hallinto-oikeus hylkäsi Veronsaajien oikeudenvalvontayksikön valituksen seuraavilla perusteilla:
+Hakija on omistanut 110 kappaletta Yhtiön V-sarjan osakkeita. Hakijalle on maksettu Yhtiöstä palkkaa vuonna 2011 69 672 euroa, vuonna 2012 68 157,68 euroa ja vuonna 2013 164 350 euroa. Hakija on saanut Yhtiöstä osinkoa vuonna 2011 17 160 euroa, vuonna 2012 21 890 euroa ja vuonna 2013 29 040 euroa. Hakija on ilmoittanut nostaneensa Yhtiöstä palkkaa 164 350 euroa vuonna 2013 ja 140 604 euroa vuonna 2014. Hakijan tulospisteen jakamaton toimintatulos ja samalla yhtiöjärjestyksen ja osakassopimuksen mukainen hakijan omistamien osakkeiden kauppahinta suunnitellussa osakekaupassa on 31.10.2013 ollut 928 040 euroa.
+Asian esittelijä esitti eriävässä mielipiteessään ennakkoratkaisun kumoamista katsoen, että kun voitonjako perustuu huomattavalta osin hakijan työpanoksen arvoon, järjestelyllä on katsottava pyrityn kiertämään työpanoksesta kertyneen tulon verottamista tuloverolain 33 b §:n 3 momentin mukaisena työpanososinkona. Tämän vuoksi suunnitellun osakekaupan kauppahintaa voidaan ennakkoratkaisuhakemuksessa selostetuin periaattein määritetyn osakkeiden luovutushinnan sekä muun kuin verovelvollisen tai hänen intressipiiriinsä kuuluvan henkilön työskentelyyn perustuvan tulon ylittävältä osalta pitää viimeksi mainitun lainkohdan sekä verotusmenettelystä annetun lain 28 §:n 1 momentin nojalla veronalaisena ansiotulona.
+Tuloverolaki 32 §, 33 b § 3 mom
+Laki verotusmenettelystä 28 § 1 mom
+Korkeimman hallinto-oikeuden päätös 28.12.2016 taltionumero 5584. Valituslupahakemus hylätty.
